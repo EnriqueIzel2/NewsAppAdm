@@ -46,14 +46,6 @@ class MainActivity : AppCompatActivity() {
         limparCampos()
       }
     }
-
-//    db.collection("noticias").document("noticia")
-//      .set(mapNoticias).addOnCompleteListener { tarefa ->
-//        if (tarefa.isSuccessful) {
-//          Toast.makeText(this, "Notícia salva com sucesso", Toast.LENGTH_SHORT).show()
-//          limparCampos()
-//        }
-//      }
   }
 
   private fun limparCampos() {
