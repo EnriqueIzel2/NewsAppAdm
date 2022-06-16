@@ -7,5 +7,6 @@
     <string name="hint_data">Data de Publicação</string>
     <string name="hint_autor">Autor</string>
     <string name="txt_button_publicar">Publicar Notícia</string>
+    <string name="txt_button_next_screen">Escrever Notícia</string>
 
 </resources>
