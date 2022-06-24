@@ -1,3 +1,3 @@
 # NewsAppAdm
 
-Primeiro app com Kotlin desenvolvido no Android Studio
+App que cadastra notícias utilizando o banco de dados storage do Firebase
